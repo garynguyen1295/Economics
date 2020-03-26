@@ -6,7 +6,9 @@ econometrics, economics
 ### Principle of Econometrics (R. Carter Hill, William E. Griffiths and Guay C. Lim)
 
 * Book [site](https://www.principlesofeconometrics.com)
-* [Github repo with R for the book](https://github.com/ccolonescu/PoEdata) 
+* [With R](https://bookdown.org/ccolonescu/RPoE4/)
+  * [Github repo](https://github.com/ccolonescu/PoEdata) 
+
 
 ### Forecasting: Principles and Practice
 
