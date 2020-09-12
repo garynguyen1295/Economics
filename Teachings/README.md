@@ -1,3 +1,3 @@
 ## Professors' teachings
 
-* [Professor Thayer-Watkins of SJSU](https://www.applet-magic.com)
+* [Professor Thayer-Watkins of SJSU](https://www.sjsu.edu/faculty/watkins/watkins.htm) with [applet-magic]()
