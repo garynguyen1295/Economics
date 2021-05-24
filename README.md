@@ -17,3 +17,8 @@ econometrics, economics
 ### Introduction to Time Series Analysis and Forecasting in R
 
 * [bookdown](https://bookdown.org/singh_pratap_tejendra/intro_time_series_r/)
+
+
+### Rpubs examples
+
+* [James Reade's Rpubs](https://rpubs.com/jjreade/)
