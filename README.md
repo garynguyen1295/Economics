@@ -13,3 +13,7 @@ econometrics, economics
 ### Forecasting: Principles and Practice
 
 * [book link](https://otexts.com/fpp2/)
+
+### Introduction to Time Series Analysis and Forecasting in R
+
+* [bookdown](https://bookdown.org/singh_pratap_tejendra/intro_time_series_r/)
